@@ -20,10 +20,11 @@ events for the player, and a locked boss room. The boss room is unlocked by solv
 using numbers found in the rooms.
 
 Item.java
-
+Contains code that keeps track of the items in the player's inventory (health potion, attack potion, experience potion,
+money potion, town map, dungeon map, compass, binoculars, puzzle, charm).
 
 Monster.java
--
+Contains code for the randomly generated monsters the player encounters.
 
 Move.java
 -
