@@ -1,4 +1,3 @@
-package textGameOne;
 import java.util.*;
 public class Player {
   //field(s)-------------------------------------------------------------
