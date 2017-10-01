@@ -5,7 +5,11 @@ The game is essentially feature complete, but still contains bugs. The game feat
 with items and abilities that can be unlocked or bought with the very original currency: "money".  
 Towns and dungeons can be discovered and explored, and the player can fight bosses and level up. 
 
-The game is run by compiling all the classes, then running the compiled Game.java from the command line.
+To run, enter the following commands in the terminal:
+
+javac *.java
+java Game
+
 The various java classes are outlined in more detail below:
 
 Game.java
