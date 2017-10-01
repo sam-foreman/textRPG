@@ -7,8 +7,8 @@ Towns and dungeons can be discovered and explored, and the player can fight boss
 
 To run, enter the following commands in the terminal:
 
-javac *.java
-java Game
+    javac *.java
+    java Game
 
 The various java classes are outlined in more detail below:
 
