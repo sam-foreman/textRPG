@@ -1,15 +1,11 @@
 //text rpg v. 3
 // created by sam foreman
 // i regret nothing
-package textGameOne;
 import java.util.*;
 public class Game 
 {
   
 	
-	// add in boss battle in the field "this is where you'd fight..."
-	// is guard 100 or 150? it's 100 in menu but 150 in shop
-	//puzzle spacing is broken on red
 //gamestart-------------------------------------------------------------------------------
   static boolean color = true;
   //main method
